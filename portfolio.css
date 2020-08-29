@@ -87,11 +87,13 @@ img {
   .text {
     font-size: 11px
   }
+
 }
 
 img {
   max-width: 100%;
 }
+
 
 /* Typography */
 body {
